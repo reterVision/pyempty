@@ -1,25 +1,26 @@
 # pyempty
 
-好的开始是成功的一半，写python代码就从这里开始吧。
+Forked from https://github.com/onlytiancai/pyempty
+Set up as my start project template of Python program.
 
 ## 目录介绍
 
-1. ./ChangeLog.txt :变更历史
-1. ./LICENES.txt :协议
-1. ./MANIFEST.in :文件清单，distutils默认只打包指定模块下的.py文件,其它的要在这里指定
-1. ./README.md :项目介绍
-1. ./requirements.txt :项目需要依赖哪些模块
-1. ./setup.py :安装文件
-1. ./docs/ :文档目录
-1. ./docs/analysis.model.md :概要设计文档
-1. ./docs/design.model.md :详细设计文档
-1. ./docs/maintain.md :维护文档
-1. ./src/ :源码目录
-1. ./src/pyempty : 项目代码
-1. ./src/pyempty/stuff :杂项文件，在setup.py里用package_data参数指定
-1. ./test/ :测试目录
-1. ./test/run_all_test.sh :执行test目录下的所有单元测试
-1. ./test/test_pyempty.py :测试示例
+1. ./ChangeLog.txt :变更历史/Change History
+1. ./LICENSE.txt :协议/License
+1. ./MANIFEST.in :文件清单，distutils默认只打包指定模块下的.py文件,其它的要在这里指定/File list, indicates necessary files which not specified in distutils
+1. ./README.md :项目介绍/Read me
+1. ./requirements.txt :项目需要依赖哪些模块/The modules needed by this project
+1. ./setup.py :安装文件/Setup file of this project
+1. ./docs/ :文档目录/Where you put documentations
+1. ./docs/analysis.model.md :概要设计文档/General design documents
+1. ./docs/design.model.md :详细设计文档/Specific design documents
+1. ./docs/maintain.md :维护文档/Maintain documents
+1. ./src/ :源码目录/Where you put your source code
+1. ./src/pyempty : 项目代码/Project source code
+1. ./src/pyempty/stuff :杂项文件，在setup.py里用package_data参数指定/Trivial files
+1. ./test/ :测试目录/Where you put unit tests
+1. ./test/run_all_test.sh :执行test目录下的所有单元测试/Execute all the unit tests under ./test/
+1. ./test/test_pyempty.py :测试示例/Test samples
 
 ## 参考连接
 
