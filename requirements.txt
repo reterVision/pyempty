@@ -1,2 +1,4 @@
+pyflakes
+pep8
 gevent
 web.py
